@@ -1,0 +1,62 @@
+.app_header_css{
+    background-color: rgb(243, 240, 247);
+    text-align:justify;
+    text-shadow: bisque;    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 2%;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* border-radius: 100px; */
+    padding-left: 10px;
+  
+   
+}
+.app_css{
+    background-color: rgb(243, 240, 247);
+    text-align:justify;
+    text-shadow: bisque;    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 2%;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    width:50%;
+  
+   
+}
+.size_css{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-flex;
+   
+    
+}
+.button_css{
+    display:flex;
+    align-items: center;
+}
+.labal_css{
+    font-size: large;
+    padding-left: 70px;
+    padding-right: 40px;
+
+}
+.prop_button_css{
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgb(240, 150, 33);
+    border-radius: 5px;
+ 
+    position: inline-flex;
+    width: fit-content;
+}
+.size_buttonCss{
+    transform: scale(.8);
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+}

@@ -4,3 +4,7 @@
 	box-sizing: border-box;
 	font-family: "Poppins", sans-serif;
 }
+body{
+background-color: rgb(214, 217, 218);
+/* text-align: center; */
+}
